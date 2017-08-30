@@ -1,0 +1,21 @@
+{
+  "name": "7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1",
+    "simple-slider": "^1.0.0",
+    "slides-js": "^0.3.0"
+  },
+  "devDependencies": {
+    "gulp-sass": "^3.1.0"
+  }
+}
